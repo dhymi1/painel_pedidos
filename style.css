@@ -1,0 +1,30 @@
+
+body {
+        background-color: #FF7F00;
+    }
+        .list-group-item {
+            cursor: pointer;
+            border: none;
+        }
+        .data-details {
+            display: none;
+        }
+        li {
+            color: Brown;
+            Font: arial;
+            margin-top: 10px;
+            width: 100%;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+            background-color: #fff;
+        }
+        .delete-btn {
+            margin-left: 10px;
+        }
+        img {
+            height: 0px;
+            width: 0px;
+margin-right: 0px;
+        }
